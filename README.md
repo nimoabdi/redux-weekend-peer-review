@@ -80,7 +80,7 @@ First must be complete for score of  _Exceeds Expectations_
 
   Busywork Goals, consider removing or making more useful
 
-- [ ] Styling with Material UI
+- [x] Styling with Material UI
 - [ ] Ability to flag a feedback item on `/admin` for further review
 - [ ] Deployed to Heroku
 
